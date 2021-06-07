@@ -6321,7 +6321,7 @@ markdown-it-toc-done-right@^4.1.0:
   resolved "https://registry.yarnpkg.com/markdown-it-toc-done-right/-/markdown-it-toc-done-right-4.2.0.tgz#3ccdce22d5022ffae7b991d07261b1b1de5459d0"
   integrity sha512-UB/IbzjWazwTlNAX0pvWNlJS8NKsOQ4syrXZQ/C72j+jirrsjVRT627lCaylrKJFBQWfRsPmIVQie8x38DEhAQ==
 
-markdown-it@^12.0.3:
+markdown-it@^12.0.6:
   version "12.0.6"
   resolved "https://registry.yarnpkg.com/markdown-it/-/markdown-it-12.0.6.tgz#adcc8e5fe020af292ccbdf161fe84f1961516138"
   integrity sha512-qv3sVLl4lMT96LLtR7xeRJX11OUFjsaD5oVat2/SNBIb21bJXwal2+SklcRbTwGwqWpWH/HRtYavOoJE+seL8w==
@@ -9567,12 +9567,12 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha512-4gDntzrifFnCEvyoO8PqyJDmguXgVPxKiIxrBKjIowvL9l+N66196+72XVYR8BBf1Uv1Fgt3bGevJ+sEmxfZzw==
 
-vue3-markdown-it@^1.0.8:
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/vue3-markdown-it/-/vue3-markdown-it-1.0.8.tgz#90ba35e3089a8d41b4695085c18886d6aece8e3b"
-  integrity sha512-EsrdHNp2g73QPgBRyKgPhlKm8WXUMXAH1uximXDo44OaaGBDwMBcbdrjJ97cM5JK+kAUd67HSENHPQ0tZ5e2IA==
+vue3-markdown-it@^1.0.9:
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/vue3-markdown-it/-/vue3-markdown-it-1.0.9.tgz#41943e4c6a28ddf5962ed793dc52eb83939c6f80"
+  integrity sha512-8swtALTX8NG2ebGAYEcrKavPLUbg8dr+vBH7cOylgzu/nO0RBeVNud84ToffSCVxG5bCX2Vp8mkeQiBetzqxiw==
   dependencies:
-    markdown-it "^12.0.3"
+    markdown-it "^12.0.6"
     markdown-it-abbr "^1.0.4"
     markdown-it-anchor "^7.1.0"
     markdown-it-deflist "^2.1.0"
