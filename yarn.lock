@@ -1017,10 +1017,10 @@
     "@babel/helper-validator-identifier" "^7.14.0"
     to-fast-properties "^2.0.0"
 
-"@fontsource/montserrat@^4.3.0":
-  version "4.4.2"
-  resolved "https://registry.yarnpkg.com/@fontsource/montserrat/-/montserrat-4.4.2.tgz#e754ea89d74f9c5fd8fac662e0aa8f31f8996080"
-  integrity sha512-Eg9qi9H/QzHPfBQ9qvivDSdJ00YFgrmr1W/30IaEc6mHqiYI4R+s2J9Gf2GRs4gWVxUfLd9n9icsr0hke7rVgA==
+"@fontsource/montserrat@^4.5.0":
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/@fontsource/montserrat/-/montserrat-4.5.0.tgz#8390d428c5eb440e78e33e13ff667ea4e0e27fb4"
+  integrity sha512-gbGuqmEf/hfwfzJzoeSMmCr+WKFmzs+fv1pm0aTM6iiMWhXJSmwfKzfWZL4c5a+PlCD/poySzXxu5yz0yjJ82A==
 
 "@fortawesome/fontawesome-common-types@^0.2.35":
   version "0.2.35"
